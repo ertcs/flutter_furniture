@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter application.
+[Video](https://www.youtube.com/watch?v=_Cb8qsJxJqk)
 
 ## Getting Started
 
