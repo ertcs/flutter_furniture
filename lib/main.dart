@@ -8,8 +8,7 @@ import 'commonwidget/tabitemiconwidget.dart';
 import 'commonwidget/horizonteltabtext.dart';
 import 'model/furnituremodel.dart';
 import 'commonwidget/itemlistviewwidget.dart';
-import 'commonwidget/cartcountwidget.dart';
-import 'commonwidget/custommenuicon.dart';
+
 
 void main() => runApp(MyApp());
 
@@ -228,6 +227,6 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
 
 // https://dribbble.com/shots/6918545-Eny-Lee-Parker-spatial-designer-redesign-concept/attachments
 
-//905-454-2316-ext3809 Sonia Williams
+
 
 
