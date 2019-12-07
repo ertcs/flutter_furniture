@@ -1,6 +1,14 @@
-# flutter_app
+# furniture app
 
-A new Flutter application.
+  
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.33.08%20PM.png)
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.34.36%20PM.png)  
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.33.16%20PM.png)
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.33.43%20PM.png)
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.33.53%20PM.png)  
+![Alt text](https://github.com/ertcs/flutter_furniture/blob/master/images/screenshots/Screenshot%202019-12-07%20at%201.34.09%20PM.png)  
+
+![Watch the video](http://i3.ytimg.com/vi/_Cb8qsJxJqk/maxresdefault.jpg)](https://youtu.be/_Cb8qsJxJqk)
 [Video](https://www.youtube.com/watch?v=_Cb8qsJxJqk)
 
 ## Getting Started
